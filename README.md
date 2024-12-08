@@ -8,7 +8,9 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
   - 🌱 **Plant Disease Detection using Computer Vision and Deep Learning.**
   - 🧑‍💻 **Exploring innovative solutions in IoT for Smart Gardening.**
 
-- 📫 **Let's connect! Reach me via** [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
+- 📫 **Let's connect! Reach me via:
+- Private Email: ** [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
+- University Email: ** [**i.ranuh001@binus.ac.id**](mailto:i.ranuh001@binus.ac.id).
 <h3 align="left">🛠️Programming Language:</h3>
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
@@ -20,7 +22,6 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 
 <h3 align="left">🛠️Frameworks:</h3>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://nodejs.org/en"><img align="left" alt="Node" title="Node" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
 <br>
 <br>
 
