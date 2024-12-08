@@ -16,7 +16,7 @@ I am **Rama Ranuh**, an enthusiastic **Undergraduate Computer Science Student** 
 <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-<a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+<a href="#"><img align="left" alt="CSS" title="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
 <br>
 
 <h3 align="left">🛠️Frameworks:</h3>
