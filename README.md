@@ -20,6 +20,7 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 
 <h3 align="left">🛠️Frameworks:</h3>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://nodejs.org/en"><img align="left" alt="Node" title="Node" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
 <br>
 <br>
 
