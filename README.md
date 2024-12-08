@@ -9,8 +9,8 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
   - 🧑‍💻 **Exploring innovative solutions in IoT for Smart Gardening.**
 
 - 📫 **Let's connect! Reach me via:
-- Private Email: ** [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
-- University Email: ** [**i.ranuh001@binus.ac.id**](mailto:i.ranuh001@binus.ac.id).
+- Private Email:  [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
+- University Email: [**i.ranuh001@binus.ac.id**](mailto:i.ranuh001@binus.ac.id).
 <h3 align="left">🛠️Programming Language:</h3>
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
