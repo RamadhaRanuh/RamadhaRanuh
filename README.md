@@ -9,14 +9,14 @@ I am **Rama Ranuh**, an enthusiastic **Undergraduate Computer Science Student** 
   - 🧑‍💻 **Exploring innovative solutions in IoT for Smart Gardening.**
 
 - 📫 **Let's connect! Reach me via** [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
-
 <h3 align="left">🛠️Programming Language:</h3>
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="#"><img align="left" alt="C" title="C" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
 <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-<a href="#"><img align="left" alt="CSS" title="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+<a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+<br>
 <br>
 
 <h3 align="left">🛠️Frameworks:</h3>
