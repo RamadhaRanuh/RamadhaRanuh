@@ -22,6 +22,8 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 
 <h3 align="left">🛠️Frameworks:</h3>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" /></a>
+<a href="https://www.gradio.app/"><img align="left" alt="Gradio" title="Gradio" width="30px" src="https://seeklogo.com/images/G/gradio-logo-C1E1266F61-seeklogo.com.png" /></a>
 <br>
 <br>
 
