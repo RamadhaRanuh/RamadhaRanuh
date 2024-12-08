@@ -12,7 +12,7 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 <h3 align="left">🛠️Programming Language:</h3>
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
-<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Typescript" title="Typescript" width="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" /></a>
 <br>
