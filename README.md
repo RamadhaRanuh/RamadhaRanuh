@@ -20,6 +20,7 @@ I am **Rama Ranuh**, an enthusiastic **Undergraduate Computer Science Student** 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RamadhaRanuh&show_icons=true&locale=en&theme=nord" alt="RamadhaRanuh" height="125"/>&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamadhaRanuh&show_icons=true&locale=en&layout=compact&theme=nord" alt="Ramadha Ranuh" height="125" /></p>
 
 
 <!--
