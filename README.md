@@ -8,7 +8,7 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
   - 🌱 **Plant Disease Detection using Computer Vision build within multiple Pre-Trained Deep Learning and Machine Learning Models.**
   - 🧑‍💻 **Smart Gardening IoT using ESP32 architectures.**
 
-- 📫 **Let's connect! Reach me via:
+- 📫 **Let's connect! Reach me via**:
 - Private Email:  [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
 - University Email: [**i.ranuh001@binus.ac.id**](mailto:i.ranuh001@binus.ac.id).
 <h3 align="left">🛠️Programming Language:</h3>
