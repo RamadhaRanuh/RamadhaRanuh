@@ -21,8 +21,6 @@ I am **Rama Ranuh**, an enthusiastic **Undergraduate Computer Science Student** 
 
 <h3 align="left">🛠️Frameworks:</h3>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://expressjs.com/"><img align="left" alt="Express.js" title="Express.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
-<a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" title="Flask" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" /></a>
 <br>
 <br>
 
