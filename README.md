@@ -4,7 +4,9 @@
 - 🎓 Currenly  from BINUS University.
 - 📫 Reach me via ramadha.ranuh@gmail.com!
 
-![Metrics](https://metrics.lecoq.io/RamadhaRanuh?template=classic&config.timezone=Asia%2FJakarta)
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 
 
