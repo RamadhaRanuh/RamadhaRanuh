@@ -3,9 +3,9 @@
 i am Rama Ranuh, Undergraduate Computer Science Student passionate about Data Science, Machine Learning, and Software Development.
 - 🎓 Currently studying at BINUS University.
 - 💡 Currently working on:
- 🤖 Real-time ASL (American Sign Language) Image Classification and Detection.
- 🌱 Plant Disease Detection using Computer Vision and Deep Learning.
- 🧑‍💻 Exploring innovative solutions in IoT for Smart Gardening.
+ > 🤖 Real-time ASL (American Sign Language) Image Classification and Detection.
+ > 🌱 Plant Disease Detection using Computer Vision and Deep Learning.
+ > 🧑‍💻 Exploring innovative solutions in IoT for Smart Gardening.
 - 📫 Let's connect! Reach me via ramadha.ranuh@gmail.com.
 
 <h3 align="left">Languages and Tools:</h3>
