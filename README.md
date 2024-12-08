@@ -4,7 +4,8 @@
 - 🎓 Currenly  from BINUS University.
 - 📫 Reach me via ramadha.ranuh@gmail.com!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamadhaRanuh)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/RamadhaRanuh?template=classic&config.timezone=Asia%2FJakarta)
+
 
 
 <!--
