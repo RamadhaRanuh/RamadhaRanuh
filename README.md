@@ -10,15 +10,16 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 
 - 📫 **Let's connect! Reach me via** [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
 <h3 align="left">🛠️Programming Language:</h3>
-<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-<a href="#"><img align="left" alt="C" title="C" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
-<a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+<a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Typescript" title="Typescript" width="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" /></a>
 <br>
 <br>
 
 <h3 align="left">🛠️Frameworks:</h3>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <br>
 <br>
 
