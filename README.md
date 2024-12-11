@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subject matter about **Data Science**, **Machine Learning**, and **Software Development**.
 
