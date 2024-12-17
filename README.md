@@ -4,9 +4,9 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 
 - 🎓 **Currently studying at BINUS University.**
 - 💡 **I'm Currently working on:**
-  - 🤖 **Real-time ASL (American Sign Language) Image Classification and Detection.**
-  - 🌱 **Plant Disease Detection using Computer Vision build within multiple Pre-Trained Deep Learning and Machine Learning Models.**
-  - 🧑‍💻 **Smart Gardening IoT using ESP32 architectures.**
+  - 🤖 **Real-time ASL (American Sign Language) Image Classification and Detection.**  ✅
+  - 🌱 **Plant Disease Detection using Computer Vision build within multiple Pre-Trained Deep Learning and Machine Learning Models.**  ✅
+  - 🧑‍💻 **Smart Gardening IoT using ESP32 architectures.**   ✅
 
 - 📫 **Let's connect! Reach me via**:
 - Private Email:  [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
