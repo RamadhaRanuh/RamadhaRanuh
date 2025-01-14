@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subject matter about **Data Science**, **Machine Learning**, and **Software Development**.
+I'm **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subject matter about **Data Science**, **Machine Learning**, and **Software Development**.
 
 - 🎓 **Currently studying at BINUS University.**
 - 💡 **I'm Currently working on:**
