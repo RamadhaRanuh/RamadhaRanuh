@@ -5,7 +5,7 @@ I am **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves sub
 - 🎓 **Currently studying at BINUS University.**
 - 💡 **I'm Currently working on:**
   - 🤖 **Agentic AI for DeFi Analysis.**
-  - 🤖 **RAG based Retrieval Chatbos using state of the art Deepseek-R1 Model (deepseek-ai/DeepSeek-R1-Distill-Llama-8B)**
+  - 🤖 **RAG based Retrieval Chatbot using state of the art Deepseek-R1 Model (deepseek-ai/DeepSeek-R1-Distill-Llama-8B)**
 
 - 📫 **Let's connect! Reach me via**:
 - Private Email:  [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
