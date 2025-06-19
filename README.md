@@ -6,8 +6,8 @@ I'm **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subj
 - 🎓 **Studying at BINUS University.**
 - 🖥️ **Interning as an AI Engineer at GDP Labs.**
 - 💡 **Working on a project:**
-  - 🤖 **RAG Exploration Using SGLang**
-  - 🤖 **Agentic AI for DeFi Analysis.**
+  - 🤖 **Data Synthetic Multi Agentic System**
+  - 🤖 **AI Mock Interview using Vapi.**
   - 🤖 **RAG based Retrieval Chatbot using state of the art Deepseek-R1 Model (deepseek-ai/DeepSeek-R1-Distill-Llama-8B)**
 
 - 📫 **Let's connect! Reach me via**:
