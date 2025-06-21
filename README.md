@@ -1,15 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN88CtA21vkVQ/giphy.gif" width="100"/>
   <h1>Hi there! 👋 I'm **Rama Ranuh**</h1>
 </div>
 
----
 
 ### About Me
 
 I'm an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
 
----
 
 ### I'm Currently
 
@@ -20,7 +17,6 @@ I'm an **Undergraduate Computer Science Student** passionate about **Data Scienc
     * 🤖 **AI Mock Interview using Vapi**: Building an AI-powered mock interview platform utilizing Vapi for realistic interactions.
     * 🤖 **RAG based Retrieval Chatbot**: Creating an advanced chatbot using Retrieval Augmented Generation (RAG) with the state-of-the-art Deepseek-R1-Distill-Llama-8B model for highly accurate and contextual responses.
 
----
 
 ### Let's Connect!
 
@@ -28,7 +24,6 @@ I'm an **Undergraduate Computer Science Student** passionate about **Data Scienc
 * 🌐 **Connect on LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) (Remember to replace this with your actual LinkedIn URL!)
 * 🐙 **Find me on GitHub**: [github.com/RamadhaRanuh](https://github.com/RamadhaRanuh)
 
----
 
 ### 🛠️ My Tech Stack
 
