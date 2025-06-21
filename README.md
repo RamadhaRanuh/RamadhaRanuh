@@ -8,7 +8,7 @@
 I'm an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
 
 
-### I'm Currently
+### I'm currently
 
 * 🎓 **Studying Computer Science at BINUS University.**
 * 🖥️ **Interning as an AI Engineer at GDP Labs**, applying cutting-edge AI technologies in a professional environment.
@@ -21,7 +21,7 @@ I'm an **Undergraduate Computer Science Student** passionate about **Data Scienc
 ### Let's Connect!
 
 * 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
-* 🌐 **Connect on LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) (Remember to replace this with your actual LinkedIn URL!)
+* 🌐 **Connect on LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/)) 
 * 🐙 **Find me on GitHub**: [github.com/RamadhaRanuh](https://github.com/RamadhaRanuh)
 
 
