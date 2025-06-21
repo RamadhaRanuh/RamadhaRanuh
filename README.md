@@ -21,7 +21,7 @@ I'm an **Undergraduate Computer Science Student** passionate about **Data Scienc
 ### Let's Connect!
 
 * 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
-* 🌐 **Connect on LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/) 
+* 🌐 **Connect on LinkedIn**: [Rama Ranuh](https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/) 
 * 🐙 **Find me on GitHub**: [github.com/RamadhaRanuh](https://github.com/RamadhaRanuh)
 
 
