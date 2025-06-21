@@ -1,33 +1,61 @@
-## Hi there! 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBkN88CtA21vkVQ/giphy.gif" width="100"/>
+  <h1>Hi there! 👋 I'm **Rama Ranuh**</h1>
+</div>
 
-I'm **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subject matter about **Data Science**, **Machine Learning**, and **Software Development**.
+---
 
-## I'm Currently:
-- 🎓 **Studying at BINUS University.**
-- 🖥️ **Interning as an AI Engineer at GDP Labs.**
-- 💡 **Working on a project:**
-  - 🤖 **Data Synthetic Multi Agentic System**
-  - 🤖 **AI Mock Interview using Vapi.**
-  - 🤖 **RAG based Retrieval Chatbot using state of the art Deepseek-R1 Model (deepseek-ai/DeepSeek-R1-Distill-Llama-8B)**
+### About Me
 
-- 📫 **Let's connect! Reach me via**:
-- Private Email:  [**ramadha.ranuh@gmail.com**](mailto:ramadha.ranuh@gmail.com).
-- University Email: [**i.ranuh001@binus.ac.id**](mailto:i.ranuh001@binus.ac.id).
-<h3 align="left">🛠️Programming Language:</h3>
-<a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-<a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
-<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="Typescript" title="Typescript" width="30px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" /></a>
-<br>
-<br>
+I'm an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
 
-<h3 align="left">🛠️Frameworks:</h3>
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" /></a>
-<a href="https://www.gradio.app/"><img align="left" alt="Gradio" title="Gradio" width="30px" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" /></a>
-<br>
-<br>
+---
+
+### I'm Currently
+
+* 🎓 **Studying Computer Science at BINUS University.**
+* 🖥️ **Interning as an AI Engineer at GDP Labs**, applying cutting-edge AI technologies in a professional environment.
+* 💡 **Working on exciting projects:**
+    * 🤖 **Data Synthetic Multi Agentic System**: Developing intelligent agents for synthetic data generation.
+    * 🤖 **AI Mock Interview using Vapi**: Building an AI-powered mock interview platform utilizing Vapi for realistic interactions.
+    * 🤖 **RAG based Retrieval Chatbot**: Creating an advanced chatbot using Retrieval Augmented Generation (RAG) with the state-of-the-art Deepseek-R1-Distill-Llama-8B model for highly accurate and contextual responses.
+
+---
+
+### Let's Connect!
+
+* 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
+* 🌐 **Connect on LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) (Remember to replace this with your actual LinkedIn URL!)
+* 🐙 **Find me on GitHub**: [github.com/RamadhaRanuh](https://github.com/RamadhaRanuh)
+
+---
+
+### 🛠️ My Tech Stack
+
+#### Programming Languages:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+#### Frameworks & Libraries:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/-Gradio-FF6F00?logo=gradio&logoColor=white" alt="Gradio">
+  <img src="https://img.shields.io/badge/-LangChain-2A7953?logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+</p>
+
+---
+
+### GitHub Stats
 
 <p align="left">
 <a href="https://github.com/RamadhaRanuh">
@@ -35,19 +63,3 @@ I'm **Rama Ranuh**, an **Undergraduate Computer Science Student** who loves subj
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamadhaRanuh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-<!--
-**RamadhaRanuh/RamadhaRanuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
