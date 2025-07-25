@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
+I am an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
 
 
 ### I'm currently
