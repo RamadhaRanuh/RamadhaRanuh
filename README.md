@@ -5,7 +5,7 @@
 
 ### About Me
 
-I am an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to leverage technology to solve real-world problems and create impactful solutions.
+I am an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to utilize technology to address real-world challenges and develop effective solutions.
 
 
 ### I'm currently
@@ -22,7 +22,6 @@ I am an **Undergraduate Computer Science Student** passionate about **Data Scien
 
 * 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
 * 🌐 **Connect on LinkedIn**: [Rama Ranuh](https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/) 
-* 🐙 **Find me on GitHub**: [github.com/RamadhaRanuh](https://github.com/RamadhaRanuh)
 
 
 ### 🛠️ My Tech Stack
