@@ -15,7 +15,7 @@ I'm an **Undergraduate Computer Science Student** passionate about **Data Scienc
 * 💡 **Working on exciting projects:**
     * 🤖 **Data Synthetic Multi Agentic System**: Developing intelligent agents for synthetic data generation.
     * 🤖 **AI Mock Interview using Vapi**: Building an AI-powered mock interview platform utilizing Vapi for realistic interactions.
-    * 🤖 **RAG based Retrieval Chatbot**: Creating an advanced chatbot using Retrieval Augmented Generation (RAG) with the state-of-the-art Deepseek-R1-Distill-Llama-8B model for highly accurate and contextual responses.
+    * 🤖 **RAG-based Retrieval Chatbot**: Creating an advanced chatbot using Retrieval Augmented Generation (RAG) with the state-of-the-art Deepseek-R1-Distill-Llama-8B model for highly accurate and contextual responses.
 
 
 ### Let's Connect!
