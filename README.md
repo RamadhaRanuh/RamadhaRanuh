@@ -7,17 +7,6 @@
 
 I'm an **Undergraduate Computer Science Student** passionate about **Data Science**, **Machine Learning**, and **Software Development**. My goal is to utilize technology to address real-world challenges and develop effective solutions.
 
-
-### I'm currently
-
-* 🎓 **Studying Computer Science at BINUS University.**
-* 🖥️ **Interning as an AI Engineer at GDP Labs**, applying cutting-edge AI technologies in a professional environment.
-* 💡 **Working on exciting projects:**
-    * 🤖 **Data Synthetic Multi Agentic System**: Developing intelligent agents for synthetic data generation.
-    * 🤖 **AI Mock Interview using Vapi**: Building an AI-powered mock interview platform utilizing Vapi for realistic interactions.
-    * 🤖 **RAG-based Retrieval Chatbot**: Creating an advanced chatbot using Retrieval Augmented Generation (RAG) with the state-of-the-art Deepseek-R1-Distill-Llama-8B model for highly accurate and contextual responses.
-
-
 ### Let's Connect!
 
 * 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
