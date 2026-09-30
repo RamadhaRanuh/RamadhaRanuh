@@ -1,48 +1,31 @@
-<div id="header" align="center">
-  <h1>Hi there! 👋 I'm Rama Ranuh</h1>
-</div>
+<h1 align="center">Rama Ranuh</h1>
 
-
-### About Me
-
-I am an **AI Engineer**. I like to create AI related stuff.
-
-### Let's Connect!
-
-* 📫 **Email me at**: [ramadha.ranuh@gmail.com](mailto:ramadha.ranuh@gmail.com) or [i.ranuh001@binus.ac.id](mailto:i.ranuh001@binus.ac.id)
-* 🌐 **Connect on LinkedIn**: [Rama Ranuh](https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/) 
-
-
-### 🛠️ My Tech Stack
-
-#### Programming Languages:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+<p align="center">
+  AI Engineer in Jakarta.<br>
+  I build and evaluate LLM applications that run locally and cite their sources.
 </p>
 
-#### Frameworks & Libraries:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/-Gradio-FF6F00?logo=gradio&logoColor=white" alt="Gradio">
-  <img src="https://img.shields.io/badge/-LangChain-2A7953?logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+<p align="center">
+  <a href="https://ramadharanuh.github.io/Portfolio/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:ramadha.ranuh@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/i-gusti-bagus-ramadha-saverian-ranuh-3310a6274/">LinkedIn</a>
 </p>
 
 ---
 
-### GitHub Stats
+### Selected work
 
-<p align="left">
-<a href="https://github.com/RamadhaRanuh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamadhaRanuh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamadhaRanuh&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| | |
+|---|---|
+| **[Local Notebook](https://github.com/RamadhaRanuh/Deepnote)** | Research over your own documents with clickable citations, fully local on an 8 GB laptop GPU. 0.95 answer correctness and 0.94 citation recall on a hand-checked set. |
+| **[Hyperpigmented skin disease classification](https://github.com/RamadhaRanuh/Hyperpigmented-Skin-Disease-Classification)** | Five pretrained models compared on four look-alike skin conditions. Published at ICCSCI 2024 ([paper](https://doi.org/10.1016/j.procs.2024.10.342)). |
+| **[Medical RAG chatbot](https://github.com/RamadhaRanuh/Natural-Language-Processing-Chatbot)** | Answers medical questions from a five-volume encyclopedia, with a local GGUF model and a streaming chat UI. |
+| **[From-Scratch](https://github.com/RamadhaRanuh/From-Scratch)** | The original Transformer and a Llama 2-style decoder, written out by hand in PyTorch. |
+
+### Tools
+
+**Languages** &nbsp; Python · TypeScript · JavaScript · Java · C
+
+**AI** &nbsp; PyTorch · TensorFlow · LangChain · LlamaIndex
+
+**Apps** &nbsp; FastAPI · React · Streamlit · Gradio
